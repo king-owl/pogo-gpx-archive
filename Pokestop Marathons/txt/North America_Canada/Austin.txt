@@ -1,0 +1,2305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gpx version="1.1" creator="www.gpxcreator.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<metadata>
+<name><![CDATA[Austin.txt]]></name>
+<link href="http://www.gpxcreator.com"><text>GPX Creator</text></link>
+<time>2018-08-10T21:30:50Z</time>
+<bounds minlat="30.26117400" minlon="-97.75564100" maxlat="30.28737800" maxlon="-97.72562500"></bounds>
+</metadata>
+
+<wpt lat="30.27427000" lon="-97.74050500">
+<ele>165.900000</ele>
+<name><![CDATA[WP1]]></name>
+</wpt>
+<wpt lat="30.27464300" lon="-97.74038000">
+<ele>166.100000</ele>
+<name><![CDATA[WP2]]></name>
+</wpt>
+<wpt lat="30.27483800" lon="-97.73989800">
+<ele>165.900000</ele>
+<name><![CDATA[WP3]]></name>
+</wpt>
+<wpt lat="30.27534600" lon="-97.73936300">
+<ele>165.700000</ele>
+<name><![CDATA[WP4]]></name>
+</wpt>
+<wpt lat="30.27554400" lon="-97.73895600">
+<ele>164.900000</ele>
+<name><![CDATA[WP5]]></name>
+</wpt>
+<wpt lat="30.27468000" lon="-97.73889500">
+<ele>164.500000</ele>
+<name><![CDATA[WP6]]></name>
+</wpt>
+<wpt lat="30.27407200" lon="-97.73933500">
+<ele>164.900000</ele>
+<name><![CDATA[WP7]]></name>
+</wpt>
+<wpt lat="30.27373700" lon="-97.73954800">
+<ele>162.100000</ele>
+<name><![CDATA[WP8]]></name>
+</wpt>
+<wpt lat="30.27349800" lon="-97.73998900">
+<ele>161.400000</ele>
+<name><![CDATA[WP9]]></name>
+</wpt>
+<wpt lat="30.27402000" lon="-97.74004900">
+<ele>164.900000</ele>
+<name><![CDATA[WP10]]></name>
+</wpt>
+<wpt lat="30.27360900" lon="-97.74089100">
+<ele>162.000000</ele>
+<name><![CDATA[WP11]]></name>
+</wpt>
+<wpt lat="30.27319300" lon="-97.74102500">
+<ele>159.600000</ele>
+<name><![CDATA[WP12]]></name>
+</wpt>
+<wpt lat="30.27291200" lon="-97.74111000">
+<ele>158.600000</ele>
+<name><![CDATA[WP13]]></name>
+</wpt>
+<wpt lat="30.27290600" lon="-97.74082500">
+<ele>158.700000</ele>
+<name><![CDATA[WP14]]></name>
+</wpt>
+<wpt lat="30.27296100" lon="-97.74026800">
+<ele>160.300000</ele>
+<name><![CDATA[WP15]]></name>
+</wpt>
+<wpt lat="30.27234600" lon="-97.74014300">
+<ele>162.100000</ele>
+<name><![CDATA[WP16]]></name>
+</wpt>
+<wpt lat="30.27210600" lon="-97.74049000">
+<ele>160.000000</ele>
+<name><![CDATA[WP17]]></name>
+</wpt>
+<wpt lat="30.27191500" lon="-97.74104000">
+<ele>156.800000</ele>
+<name><![CDATA[WP18]]></name>
+</wpt>
+<wpt lat="30.27210200" lon="-97.74149400">
+<ele>157.100000</ele>
+<name><![CDATA[WP19]]></name>
+</wpt>
+<wpt lat="30.27237100" lon="-97.74182400">
+<ele>158.700000</ele>
+<name><![CDATA[WP20]]></name>
+</wpt>
+<wpt lat="30.27226700" lon="-97.74256200">
+<ele>162.700000</ele>
+<name><![CDATA[WP21]]></name>
+</wpt>
+<wpt lat="30.27263300" lon="-97.74265600">
+<ele>163.500000</ele>
+<name><![CDATA[WP22]]></name>
+</wpt>
+<wpt lat="30.27332900" lon="-97.74274000">
+<ele>162.700000</ele>
+<name><![CDATA[WP23]]></name>
+</wpt>
+<wpt lat="30.27386200" lon="-97.74272300">
+<ele>163.400000</ele>
+<name><![CDATA[WP24]]></name>
+</wpt>
+<wpt lat="30.27439700" lon="-97.74187200">
+<ele>158.900000</ele>
+<name><![CDATA[WP25]]></name>
+</wpt>
+<wpt lat="30.27461300" lon="-97.74153200">
+<ele>162.100000</ele>
+<name><![CDATA[WP26]]></name>
+</wpt>
+<wpt lat="30.27410700" lon="-97.74144900">
+<ele>159.100000</ele>
+<name><![CDATA[WP27]]></name>
+</wpt>
+<wpt lat="30.27537000" lon="-97.74123600">
+<ele>164.600000</ele>
+<name><![CDATA[WP28]]></name>
+</wpt>
+<wpt lat="30.27590200" lon="-97.74068100">
+<ele>167.700000</ele>
+<name><![CDATA[WP29]]></name>
+</wpt>
+<wpt lat="30.27602100" lon="-97.74063700">
+<ele>168.000000</ele>
+<name><![CDATA[WP30]]></name>
+</wpt>
+<wpt lat="30.27616600" lon="-97.74012300">
+<ele>167.700000</ele>
+<name><![CDATA[WP31]]></name>
+</wpt>
+<wpt lat="30.27589000" lon="-97.73990400">
+<ele>167.100000</ele>
+<name><![CDATA[WP32]]></name>
+</wpt>
+<wpt lat="30.27704800" lon="-97.73923800">
+<ele>165.800000</ele>
+<name><![CDATA[WP33]]></name>
+</wpt>
+<wpt lat="30.27734900" lon="-97.73844800">
+<ele>164.300000</ele>
+<name><![CDATA[WP34]]></name>
+</wpt>
+<wpt lat="30.27783600" lon="-97.73936300">
+<ele>167.800000</ele>
+<name><![CDATA[WP35]]></name>
+</wpt>
+<wpt lat="30.27824500" lon="-97.74019200">
+<ele>171.300000</ele>
+<name><![CDATA[WP36]]></name>
+</wpt>
+<wpt lat="30.27800700" lon="-97.74053400">
+<ele>171.000000</ele>
+<name><![CDATA[WP37]]></name>
+</wpt>
+<wpt lat="30.27694300" lon="-97.74114000">
+<ele>167.700000</ele>
+<name><![CDATA[WP38]]></name>
+</wpt>
+<wpt lat="30.27675400" lon="-97.74189500">
+<ele>165.400000</ele>
+<name><![CDATA[WP39]]></name>
+</wpt>
+<wpt lat="30.27638000" lon="-97.74210000">
+<ele>164.500000</ele>
+<name><![CDATA[WP40]]></name>
+</wpt>
+<wpt lat="30.27590100" lon="-97.74271700">
+<ele>165.400000</ele>
+<name><![CDATA[WP41]]></name>
+</wpt>
+<wpt lat="30.27558200" lon="-97.74222100">
+<ele>164.100000</ele>
+<name><![CDATA[WP42]]></name>
+</wpt>
+<wpt lat="30.27477600" lon="-97.74278400">
+<ele>165.400000</ele>
+<name><![CDATA[WP43]]></name>
+</wpt>
+<wpt lat="30.27566700" lon="-97.74370000">
+<ele>166.700000</ele>
+<name><![CDATA[WP44]]></name>
+</wpt>
+<wpt lat="30.27480100" lon="-97.74447000">
+<ele>167.900000</ele>
+<name><![CDATA[WP45]]></name>
+</wpt>
+<wpt lat="30.27464100" lon="-97.74434000">
+<ele>168.600000</ele>
+<name><![CDATA[WP46]]></name>
+</wpt>
+<wpt lat="30.27392100" lon="-97.74410500">
+<ele>167.900000</ele>
+<name><![CDATA[WP47]]></name>
+</wpt>
+<wpt lat="30.27360800" lon="-97.74501200">
+<ele>165.600000</ele>
+<name><![CDATA[WP48]]></name>
+</wpt>
+<wpt lat="30.27329600" lon="-97.74484900">
+<ele>165.300000</ele>
+<name><![CDATA[WP49]]></name>
+</wpt>
+<wpt lat="30.27387500" lon="-97.74565400">
+<ele>160.500000</ele>
+<name><![CDATA[WP50]]></name>
+</wpt>
+<wpt lat="30.27442300" lon="-97.74559500">
+<ele>163.100000</ele>
+<name><![CDATA[WP51]]></name>
+</wpt>
+<wpt lat="30.27416200" lon="-97.74627400">
+<ele>156.300000</ele>
+<name><![CDATA[WP52]]></name>
+</wpt>
+<wpt lat="30.27474600" lon="-97.74629200">
+<ele>156.600000</ele>
+<name><![CDATA[WP53]]></name>
+</wpt>
+<wpt lat="30.27453900" lon="-97.74727400">
+<ele>155.500000</ele>
+<name><![CDATA[WP54]]></name>
+</wpt>
+<wpt lat="30.27388300" lon="-97.74785900">
+<ele>155.300000</ele>
+<name><![CDATA[WP55]]></name>
+</wpt>
+<wpt lat="30.27440300" lon="-97.74902000">
+<ele>154.800000</ele>
+<name><![CDATA[WP56]]></name>
+</wpt>
+<wpt lat="30.27523900" lon="-97.74779200">
+<ele>158.200000</ele>
+<name><![CDATA[WP57]]></name>
+</wpt>
+<wpt lat="30.27592800" lon="-97.74742200">
+<ele>158.100000</ele>
+<name><![CDATA[WP58]]></name>
+</wpt>
+<wpt lat="30.27641400" lon="-97.74719000">
+<ele>156.500000</ele>
+<name><![CDATA[WP59]]></name>
+</wpt>
+<wpt lat="30.27635300" lon="-97.74783000">
+<ele>154.500000</ele>
+<name><![CDATA[WP60]]></name>
+</wpt>
+<wpt lat="30.27703700" lon="-97.74780400">
+<ele>153.200000</ele>
+<name><![CDATA[WP61]]></name>
+</wpt>
+<wpt lat="30.27711400" lon="-97.74915900">
+<ele>146.900000</ele>
+<name><![CDATA[WP62]]></name>
+</wpt>
+<wpt lat="30.27724500" lon="-97.74983000">
+<ele>146.400000</ele>
+<name><![CDATA[WP63]]></name>
+</wpt>
+<wpt lat="30.27677900" lon="-97.74991200">
+<ele>146.200000</ele>
+<name><![CDATA[WP64]]></name>
+</wpt>
+<wpt lat="30.27646000" lon="-97.75053700">
+<ele>146.400000</ele>
+<name><![CDATA[WP65]]></name>
+</wpt>
+<wpt lat="30.27748700" lon="-97.75089100">
+<ele>148.800000</ele>
+<name><![CDATA[WP66]]></name>
+</wpt>
+<wpt lat="30.27746500" lon="-97.75156700">
+<ele>150.500000</ele>
+<name><![CDATA[WP67]]></name>
+</wpt>
+<wpt lat="30.27603100" lon="-97.75308800">
+<ele>158.400000</ele>
+<name><![CDATA[WP68]]></name>
+</wpt>
+<wpt lat="30.27574100" lon="-97.75311500">
+<ele>156.800000</ele>
+<name><![CDATA[WP69]]></name>
+</wpt>
+<wpt lat="30.27473900" lon="-97.75289700">
+<ele>149.600000</ele>
+<name><![CDATA[WP70]]></name>
+</wpt>
+<wpt lat="30.27423900" lon="-97.75244500">
+<ele>146.300000</ele>
+<name><![CDATA[WP71]]></name>
+</wpt>
+<wpt lat="30.27491800" lon="-97.75174500">
+<ele>145.100000</ele>
+<name><![CDATA[WP72]]></name>
+</wpt>
+<wpt lat="30.27359400" lon="-97.75112300">
+<ele>143.500000</ele>
+<name><![CDATA[WP73]]></name>
+</wpt>
+<wpt lat="30.27309500" lon="-97.75060500">
+<ele>144.600000</ele>
+<name><![CDATA[WP74]]></name>
+</wpt>
+<wpt lat="30.27293600" lon="-97.74984500">
+<ele>146.100000</ele>
+<name><![CDATA[WP75]]></name>
+</wpt>
+<wpt lat="30.27258400" lon="-97.74840400">
+<ele>150.300000</ele>
+<name><![CDATA[WP76]]></name>
+</wpt>
+<wpt lat="30.27279100" lon="-97.74829100">
+<ele>150.800000</ele>
+<name><![CDATA[WP77]]></name>
+</wpt>
+<wpt lat="30.27250400" lon="-97.74759300">
+<ele>152.600000</ele>
+<name><![CDATA[WP78]]></name>
+</wpt>
+<wpt lat="30.27159600" lon="-97.74811900">
+<ele>153.000000</ele>
+<name><![CDATA[WP79]]></name>
+</wpt>
+<wpt lat="30.27112400" lon="-97.74777500">
+<ele>151.100000</ele>
+<name><![CDATA[WP80]]></name>
+</wpt>
+<wpt lat="30.27080100" lon="-97.74827400">
+<ele>150.300000</ele>
+<name><![CDATA[WP81]]></name>
+</wpt>
+<wpt lat="30.27101800" lon="-97.74858700">
+<ele>150.600000</ele>
+<name><![CDATA[WP82]]></name>
+</wpt>
+<wpt lat="30.27127900" lon="-97.74911900">
+<ele>147.000000</ele>
+<name><![CDATA[WP83]]></name>
+</wpt>
+<wpt lat="30.27030600" lon="-97.74842400">
+<ele>147.100000</ele>
+<name><![CDATA[WP84]]></name>
+</wpt>
+<wpt lat="30.26959000" lon="-97.74894800">
+<ele>144.200000</ele>
+<name><![CDATA[WP85]]></name>
+</wpt>
+<wpt lat="30.26980200" lon="-97.74937800">
+<ele>143.900000</ele>
+<name><![CDATA[WP86]]></name>
+</wpt>
+<wpt lat="30.26948700" lon="-97.74944800">
+<ele>143.300000</ele>
+<name><![CDATA[WP87]]></name>
+</wpt>
+<wpt lat="30.26987500" lon="-97.74999600">
+<ele>142.800000</ele>
+<name><![CDATA[WP88]]></name>
+</wpt>
+<wpt lat="30.26923500" lon="-97.75028700">
+<ele>142.300000</ele>
+<name><![CDATA[WP89]]></name>
+</wpt>
+<wpt lat="30.26936600" lon="-97.75066400">
+<ele>142.400000</ele>
+<name><![CDATA[WP90]]></name>
+</wpt>
+<wpt lat="30.27032700" lon="-97.75112900">
+<ele>138.800000</ele>
+<name><![CDATA[WP91]]></name>
+</wpt>
+<wpt lat="30.27073700" lon="-97.75129000">
+<ele>142.100000</ele>
+<name><![CDATA[WP92]]></name>
+</wpt>
+<wpt lat="30.27043500" lon="-97.75063600">
+<ele>141.600000</ele>
+<name><![CDATA[WP93]]></name>
+</wpt>
+<wpt lat="30.27036900" lon="-97.75244800">
+<ele>142.600000</ele>
+<name><![CDATA[WP94]]></name>
+</wpt>
+<wpt lat="30.26950500" lon="-97.75256300">
+<ele>140.900000</ele>
+<name><![CDATA[WP95]]></name>
+</wpt>
+<wpt lat="30.26958800" lon="-97.75303000">
+<ele>142.000000</ele>
+<name><![CDATA[WP96]]></name>
+</wpt>
+<wpt lat="30.26996200" lon="-97.75345900">
+<ele>143.700000</ele>
+<name><![CDATA[WP97]]></name>
+</wpt>
+<wpt lat="30.26978300" lon="-97.75391400">
+<ele>143.900000</ele>
+<name><![CDATA[WP98]]></name>
+</wpt>
+<wpt lat="30.27047600" lon="-97.75346300">
+<ele>144.800000</ele>
+<name><![CDATA[WP99]]></name>
+</wpt>
+<wpt lat="30.27125100" lon="-97.75359700">
+<ele>146.600000</ele>
+<name><![CDATA[WP100]]></name>
+</wpt>
+<wpt lat="30.27182000" lon="-97.75417900">
+<ele>149.600000</ele>
+<name><![CDATA[WP101]]></name>
+</wpt>
+<wpt lat="30.27197000" lon="-97.75470200">
+<ele>150.800000</ele>
+<name><![CDATA[WP102]]></name>
+</wpt>
+<wpt lat="30.27128500" lon="-97.75564100">
+<ele>147.300000</ele>
+<name><![CDATA[WP103]]></name>
+</wpt>
+<wpt lat="30.27090100" lon="-97.75517000">
+<ele>147.000000</ele>
+<name><![CDATA[WP104]]></name>
+</wpt>
+<wpt lat="30.27024300" lon="-97.75486800">
+<ele>145.300000</ele>
+<name><![CDATA[WP105]]></name>
+</wpt>
+<wpt lat="30.26881100" lon="-97.75380100">
+<ele>142.000000</ele>
+<name><![CDATA[WP106]]></name>
+</wpt>
+<wpt lat="30.26773300" lon="-97.75270700">
+<ele>140.900000</ele>
+<name><![CDATA[WP107]]></name>
+</wpt>
+<wpt lat="30.26732200" lon="-97.75289300">
+<ele>140.500000</ele>
+<name><![CDATA[WP108]]></name>
+</wpt>
+<wpt lat="30.26626600" lon="-97.75271000">
+<ele>139.800000</ele>
+<name><![CDATA[WP109]]></name>
+</wpt>
+<wpt lat="30.26466200" lon="-97.75171500">
+<ele>130.700000</ele>
+<name><![CDATA[WP110]]></name>
+</wpt>
+<wpt lat="30.26419400" lon="-97.75021300">
+<ele>131.000000</ele>
+<name><![CDATA[WP111]]></name>
+</wpt>
+<wpt lat="30.26438400" lon="-97.74876000">
+<ele>137.400000</ele>
+<name><![CDATA[WP112]]></name>
+</wpt>
+<wpt lat="30.26418800" lon="-97.74817900">
+<ele>137.500000</ele>
+<name><![CDATA[WP113]]></name>
+</wpt>
+<wpt lat="30.26405900" lon="-97.74757200">
+<ele>140.800000</ele>
+<name><![CDATA[WP114]]></name>
+</wpt>
+<wpt lat="30.26462900" lon="-97.74725600">
+<ele>142.900000</ele>
+<name><![CDATA[WP115]]></name>
+</wpt>
+<wpt lat="30.26450700" lon="-97.74694400">
+<ele>143.100000</ele>
+<name><![CDATA[WP116]]></name>
+</wpt>
+<wpt lat="30.26517700" lon="-97.74675100">
+<ele>144.000000</ele>
+<name><![CDATA[WP117]]></name>
+</wpt>
+<wpt lat="30.26551500" lon="-97.74620500">
+<ele>144.600000</ele>
+<name><![CDATA[WP118]]></name>
+</wpt>
+<wpt lat="30.26587300" lon="-97.74644500">
+<ele>144.700000</ele>
+<name><![CDATA[WP119]]></name>
+</wpt>
+<wpt lat="30.26629700" lon="-97.74599000">
+<ele>145.500000</ele>
+<name><![CDATA[WP120]]></name>
+</wpt>
+<wpt lat="30.26620900" lon="-97.74552800">
+<ele>145.800000</ele>
+<name><![CDATA[WP121]]></name>
+</wpt>
+<wpt lat="30.26567300" lon="-97.74564000">
+<ele>145.100000</ele>
+<name><![CDATA[WP122]]></name>
+</wpt>
+<wpt lat="30.26567100" lon="-97.74493000">
+<ele>145.500000</ele>
+<name><![CDATA[WP123]]></name>
+</wpt>
+<wpt lat="30.26638800" lon="-97.74454900">
+<ele>146.800000</ele>
+<name><![CDATA[WP124]]></name>
+</wpt>
+<wpt lat="30.26673100" lon="-97.74468700">
+<ele>147.600000</ele>
+<name><![CDATA[WP125]]></name>
+</wpt>
+<wpt lat="30.26683800" lon="-97.74417100">
+<ele>148.300000</ele>
+<name><![CDATA[WP126]]></name>
+</wpt>
+<wpt lat="30.26733700" lon="-97.74443300">
+<ele>149.400000</ele>
+<name><![CDATA[WP127]]></name>
+</wpt>
+<wpt lat="30.26752300" lon="-97.74400500">
+<ele>149.900000</ele>
+<name><![CDATA[WP128]]></name>
+</wpt>
+<wpt lat="30.26792900" lon="-97.74323200">
+<ele>150.300000</ele>
+<name><![CDATA[WP129]]></name>
+</wpt>
+<wpt lat="30.26831400" lon="-97.74339400">
+<ele>151.100000</ele>
+<name><![CDATA[WP130]]></name>
+</wpt>
+<wpt lat="30.26836400" lon="-97.74299000">
+<ele>151.000000</ele>
+<name><![CDATA[WP131]]></name>
+</wpt>
+<wpt lat="30.26862800" lon="-97.74274200">
+<ele>151.400000</ele>
+<name><![CDATA[WP132]]></name>
+</wpt>
+<wpt lat="30.26913900" lon="-97.74259200">
+<ele>152.000000</ele>
+<name><![CDATA[WP133]]></name>
+</wpt>
+<wpt lat="30.26934900" lon="-97.74213500">
+<ele>152.100000</ele>
+<name><![CDATA[WP134]]></name>
+</wpt>
+<wpt lat="30.26968100" lon="-97.74245800">
+<ele>153.100000</ele>
+<name><![CDATA[WP135]]></name>
+</wpt>
+<wpt lat="30.27018700" lon="-97.74269000">
+<ele>156.900000</ele>
+<name><![CDATA[WP136]]></name>
+</wpt>
+<wpt lat="30.27040800" lon="-97.74325800">
+<ele>160.300000</ele>
+<name><![CDATA[WP137]]></name>
+</wpt>
+<wpt lat="30.27005800" lon="-97.74367500">
+<ele>159.100000</ele>
+<name><![CDATA[WP138]]></name>
+</wpt>
+<wpt lat="30.27058700" lon="-97.74392700">
+<ele>162.000000</ele>
+<name><![CDATA[WP139]]></name>
+</wpt>
+<wpt lat="30.27109200" lon="-97.74325700">
+<ele>161.700000</ele>
+<name><![CDATA[WP140]]></name>
+</wpt>
+<wpt lat="30.27057400" lon="-97.74206000">
+<ele>155.200000</ele>
+<name><![CDATA[WP141]]></name>
+</wpt>
+<wpt lat="30.27091500" lon="-97.74154200">
+<ele>154.900000</ele>
+<name><![CDATA[WP142]]></name>
+</wpt>
+<wpt lat="30.27125800" lon="-97.74179000">
+<ele>155.700000</ele>
+<name><![CDATA[WP143]]></name>
+</wpt>
+<wpt lat="30.27164200" lon="-97.74165000">
+<ele>156.300000</ele>
+<name><![CDATA[WP144]]></name>
+</wpt>
+<wpt lat="30.27071600" lon="-97.74091700">
+<ele>157.000000</ele>
+<name><![CDATA[WP145]]></name>
+</wpt>
+<wpt lat="30.26986600" lon="-97.74055200">
+<ele>160.000000</ele>
+<name><![CDATA[WP146]]></name>
+</wpt>
+<wpt lat="30.26950100" lon="-97.74064100">
+<ele>158.300000</ele>
+<name><![CDATA[WP147]]></name>
+</wpt>
+<wpt lat="30.26920200" lon="-97.73996800">
+<ele>160.700000</ele>
+<name><![CDATA[WP148]]></name>
+</wpt>
+<wpt lat="30.26867200" lon="-97.74050200">
+<ele>162.000000</ele>
+<name><![CDATA[WP149]]></name>
+</wpt>
+<wpt lat="30.26824000" lon="-97.74117800">
+<ele>152.300000</ele>
+<name><![CDATA[WP150]]></name>
+</wpt>
+<wpt lat="30.26803000" lon="-97.74164800">
+<ele>150.100000</ele>
+<name><![CDATA[WP151]]></name>
+</wpt>
+<wpt lat="30.26802500" lon="-97.74231500">
+<ele>150.200000</ele>
+<name><![CDATA[WP152]]></name>
+</wpt>
+<wpt lat="30.26791000" lon="-97.74254600">
+<ele>150.200000</ele>
+<name><![CDATA[WP153]]></name>
+</wpt>
+<wpt lat="30.26685600" lon="-97.74257300">
+<ele>148.400000</ele>
+<name><![CDATA[WP154]]></name>
+</wpt>
+<wpt lat="30.26666800" lon="-97.74219100">
+<ele>148.000000</ele>
+<name><![CDATA[WP155]]></name>
+</wpt>
+<wpt lat="30.26649100" lon="-97.74205400">
+<ele>147.600000</ele>
+<name><![CDATA[WP156]]></name>
+</wpt>
+<wpt lat="30.26580600" lon="-97.74174300">
+<ele>146.800000</ele>
+<name><![CDATA[WP157]]></name>
+</wpt>
+<wpt lat="30.26568300" lon="-97.74117900">
+<ele>146.800000</ele>
+<name><![CDATA[WP158]]></name>
+</wpt>
+<wpt lat="30.26554500" lon="-97.74050000">
+<ele>146.700000</ele>
+<name><![CDATA[WP159]]></name>
+</wpt>
+<wpt lat="30.26546800" lon="-97.74044800">
+<ele>146.600000</ele>
+<name><![CDATA[WP160]]></name>
+</wpt>
+<wpt lat="30.26534800" lon="-97.74011900">
+<ele>146.300000</ele>
+<name><![CDATA[WP161]]></name>
+</wpt>
+<wpt lat="30.26495100" lon="-97.74023400">
+<ele>145.600000</ele>
+<name><![CDATA[WP162]]></name>
+</wpt>
+<wpt lat="30.26457500" lon="-97.74002300">
+<ele>144.400000</ele>
+<name><![CDATA[WP163]]></name>
+</wpt>
+<wpt lat="30.26454500" lon="-97.74039900">
+<ele>144.800000</ele>
+<name><![CDATA[WP164]]></name>
+</wpt>
+<wpt lat="30.26466000" lon="-97.74122500">
+<ele>145.500000</ele>
+<name><![CDATA[WP165]]></name>
+</wpt>
+<wpt lat="30.26421400" lon="-97.74149100">
+<ele>144.900000</ele>
+<name><![CDATA[WP166]]></name>
+</wpt>
+<wpt lat="30.26371900" lon="-97.74143600">
+<ele>144.200000</ele>
+<name><![CDATA[WP167]]></name>
+</wpt>
+<wpt lat="30.26340400" lon="-97.74176600">
+<ele>144.100000</ele>
+<name><![CDATA[WP168]]></name>
+</wpt>
+<wpt lat="30.26300700" lon="-97.74191500">
+<ele>143.900000</ele>
+<name><![CDATA[WP169]]></name>
+</wpt>
+<wpt lat="30.26262900" lon="-97.74108100">
+<ele>142.900000</ele>
+<name><![CDATA[WP170]]></name>
+</wpt>
+<wpt lat="30.26241100" lon="-97.74053500">
+<ele>141.400000</ele>
+<name><![CDATA[WP171]]></name>
+</wpt>
+<wpt lat="30.26230400" lon="-97.73982000">
+<ele>139.900000</ele>
+<name><![CDATA[WP172]]></name>
+</wpt>
+<wpt lat="30.26205700" lon="-97.73903700">
+<ele>137.700000</ele>
+<name><![CDATA[WP173]]></name>
+</wpt>
+<wpt lat="30.26219700" lon="-97.73890600">
+<ele>137.900000</ele>
+<name><![CDATA[WP174]]></name>
+</wpt>
+<wpt lat="30.26255500" lon="-97.73897000">
+<ele>137.200000</ele>
+<name><![CDATA[WP175]]></name>
+</wpt>
+<wpt lat="30.26273700" lon="-97.73868600">
+<ele>136.400000</ele>
+<name><![CDATA[WP176]]></name>
+</wpt>
+<wpt lat="30.26347800" lon="-97.73842300">
+<ele>141.300000</ele>
+<name><![CDATA[WP177]]></name>
+</wpt>
+<wpt lat="30.26352100" lon="-97.73819800">
+<ele>141.200000</ele>
+<name><![CDATA[WP178]]></name>
+</wpt>
+<wpt lat="30.26312100" lon="-97.73759300">
+<ele>138.400000</ele>
+<name><![CDATA[WP179]]></name>
+</wpt>
+<wpt lat="30.26269000" lon="-97.73661300">
+<ele>140.100000</ele>
+<name><![CDATA[WP180]]></name>
+</wpt>
+<wpt lat="30.26305600" lon="-97.73623400">
+<ele>142.400000</ele>
+<name><![CDATA[WP181]]></name>
+</wpt>
+<wpt lat="30.26202800" lon="-97.73543000">
+<ele>143.000000</ele>
+<name><![CDATA[WP182]]></name>
+</wpt>
+<wpt lat="30.26354400" lon="-97.73483100">
+<ele>142.000000</ele>
+<name><![CDATA[WP183]]></name>
+</wpt>
+<wpt lat="30.26309000" lon="-97.73295300">
+<ele>142.700000</ele>
+<name><![CDATA[WP184]]></name>
+</wpt>
+<wpt lat="30.26291000" lon="-97.73259300">
+<ele>142.700000</ele>
+<name><![CDATA[WP185]]></name>
+</wpt>
+<wpt lat="30.26373200" lon="-97.73190000">
+<ele>143.700000</ele>
+<name><![CDATA[WP186]]></name>
+</wpt>
+<wpt lat="30.26384800" lon="-97.73141400">
+<ele>145.000000</ele>
+<name><![CDATA[WP187]]></name>
+</wpt>
+<wpt lat="30.26423300" lon="-97.73069500">
+<ele>148.500000</ele>
+<name><![CDATA[WP188]]></name>
+</wpt>
+<wpt lat="30.26459600" lon="-97.73080200">
+<ele>150.600000</ele>
+<name><![CDATA[WP189]]></name>
+</wpt>
+<wpt lat="30.26490900" lon="-97.73175200">
+<ele>151.800000</ele>
+<name><![CDATA[WP190]]></name>
+</wpt>
+<wpt lat="30.26532100" lon="-97.73253700">
+<ele>152.200000</ele>
+<name><![CDATA[WP191]]></name>
+</wpt>
+<wpt lat="30.26522700" lon="-97.73349600">
+<ele>147.500000</ele>
+<name><![CDATA[WP192]]></name>
+</wpt>
+<wpt lat="30.26536900" lon="-97.73369400">
+<ele>146.900000</ele>
+<name><![CDATA[WP193]]></name>
+</wpt>
+<wpt lat="30.26625900" lon="-97.73499200">
+<ele>143.800000</ele>
+<name><![CDATA[WP194]]></name>
+</wpt>
+<wpt lat="30.26645600" lon="-97.73531500">
+<ele>142.000000</ele>
+<name><![CDATA[WP195]]></name>
+</wpt>
+<wpt lat="30.26656200" lon="-97.73593500">
+<ele>141.000000</ele>
+<name><![CDATA[WP196]]></name>
+</wpt>
+<wpt lat="30.26637800" lon="-97.73645100">
+<ele>143.900000</ele>
+<name><![CDATA[WP197]]></name>
+</wpt>
+<wpt lat="30.26600200" lon="-97.73600400">
+<ele>140.100000</ele>
+<name><![CDATA[WP198]]></name>
+</wpt>
+<wpt lat="30.26549700" lon="-97.73579100">
+<ele>139.100000</ele>
+<name><![CDATA[WP199]]></name>
+</wpt>
+<wpt lat="30.26515500" lon="-97.73661100">
+<ele>141.300000</ele>
+<name><![CDATA[WP200]]></name>
+</wpt>
+<wpt lat="30.26460600" lon="-97.73660900">
+<ele>140.600000</ele>
+<name><![CDATA[WP201]]></name>
+</wpt>
+<wpt lat="30.26468400" lon="-97.73774000">
+<ele>142.200000</ele>
+<name><![CDATA[WP202]]></name>
+</wpt>
+<wpt lat="30.26446000" lon="-97.73848500">
+<ele>142.500000</ele>
+<name><![CDATA[WP203]]></name>
+</wpt>
+<wpt lat="30.26425700" lon="-97.73921800">
+<ele>142.900000</ele>
+<name><![CDATA[WP204]]></name>
+</wpt>
+<wpt lat="30.26493100" lon="-97.73906000">
+<ele>144.000000</ele>
+<name><![CDATA[WP205]]></name>
+</wpt>
+<wpt lat="30.26579900" lon="-97.73884000">
+<ele>146.100000</ele>
+<name><![CDATA[WP206]]></name>
+</wpt>
+<wpt lat="30.26595900" lon="-97.73899000">
+<ele>146.500000</ele>
+<name><![CDATA[WP207]]></name>
+</wpt>
+<wpt lat="30.26586300" lon="-97.73822000">
+<ele>145.600000</ele>
+<name><![CDATA[WP208]]></name>
+</wpt>
+<wpt lat="30.26620900" lon="-97.73792600">
+<ele>146.100000</ele>
+<name><![CDATA[WP209]]></name>
+</wpt>
+<wpt lat="30.26604900" lon="-97.73759100">
+<ele>145.200000</ele>
+<name><![CDATA[WP210]]></name>
+</wpt>
+<wpt lat="30.26620800" lon="-97.73736100">
+<ele>145.300000</ele>
+<name><![CDATA[WP211]]></name>
+</wpt>
+<wpt lat="30.26698200" lon="-97.73649400">
+<ele>145.100000</ele>
+<name><![CDATA[WP212]]></name>
+</wpt>
+<wpt lat="30.26735800" lon="-97.73607400">
+<ele>142.900000</ele>
+<name><![CDATA[WP213]]></name>
+</wpt>
+<wpt lat="30.26795100" lon="-97.73674700">
+<ele>147.900000</ele>
+<name><![CDATA[WP214]]></name>
+</wpt>
+<wpt lat="30.26824800" lon="-97.73709400">
+<ele>149.800000</ele>
+<name><![CDATA[WP215]]></name>
+</wpt>
+<wpt lat="30.26850800" lon="-97.73738400">
+<ele>152.500000</ele>
+<name><![CDATA[WP216]]></name>
+</wpt>
+<wpt lat="30.26865500" lon="-97.73651000">
+<ele>147.900000</ele>
+<name><![CDATA[WP217]]></name>
+</wpt>
+<wpt lat="30.26849100" lon="-97.73604900">
+<ele>142.800000</ele>
+<name><![CDATA[WP218]]></name>
+</wpt>
+<wpt lat="30.26955600" lon="-97.73616100">
+<ele>146.300000</ele>
+<name><![CDATA[WP219]]></name>
+</wpt>
+<wpt lat="30.27015600" lon="-97.73597500">
+<ele>146.000000</ele>
+<name><![CDATA[WP220]]></name>
+</wpt>
+<wpt lat="30.27016900" lon="-97.73631900">
+<ele>152.000000</ele>
+<name><![CDATA[WP221]]></name>
+</wpt>
+<wpt lat="30.27057200" lon="-97.73594300">
+<ele>146.300000</ele>
+<name><![CDATA[WP222]]></name>
+</wpt>
+<wpt lat="30.27136400" lon="-97.73527100">
+<ele>143.400000</ele>
+<name><![CDATA[WP223]]></name>
+</wpt>
+<wpt lat="30.27129000" lon="-97.73491000">
+<ele>145.700000</ele>
+<name><![CDATA[WP224]]></name>
+</wpt>
+<wpt lat="30.27186500" lon="-97.73565500">
+<ele>143.500000</ele>
+<name><![CDATA[WP225]]></name>
+</wpt>
+<wpt lat="30.27262100" lon="-97.73526300">
+<ele>144.900000</ele>
+<name><![CDATA[WP226]]></name>
+</wpt>
+<wpt lat="30.27250500" lon="-97.73440600">
+<ele>150.300000</ele>
+<name><![CDATA[WP227]]></name>
+</wpt>
+<wpt lat="30.27158500" lon="-97.73664500">
+<ele>152.700000</ele>
+<name><![CDATA[WP228]]></name>
+</wpt>
+<wpt lat="30.27158700" lon="-97.73753400">
+<ele>159.800000</ele>
+<name><![CDATA[WP229]]></name>
+</wpt>
+<wpt lat="30.27114800" lon="-97.73770300">
+<ele>159.400000</ele>
+<name><![CDATA[WP230]]></name>
+</wpt>
+<wpt lat="30.27016100" lon="-97.73802200">
+<ele>164.200000</ele>
+<name><![CDATA[WP231]]></name>
+</wpt>
+<wpt lat="30.27010500" lon="-97.73720900">
+<ele>161.700000</ele>
+<name><![CDATA[WP232]]></name>
+</wpt>
+<wpt lat="30.26943300" lon="-97.73871300">
+<ele>156.800000</ele>
+<name><![CDATA[WP233]]></name>
+</wpt>
+<wpt lat="30.27043200" lon="-97.73913600">
+<ele>164.100000</ele>
+<name><![CDATA[WP234]]></name>
+</wpt>
+<wpt lat="30.27114400" lon="-97.73929200">
+<ele>165.100000</ele>
+<name><![CDATA[WP235]]></name>
+</wpt>
+<wpt lat="30.27094600" lon="-97.73974000">
+<ele>163.600000</ele>
+<name><![CDATA[WP236]]></name>
+</wpt>
+<wpt lat="30.27125700" lon="-97.73983500">
+<ele>163.400000</ele>
+<name><![CDATA[WP237]]></name>
+</wpt>
+<wpt lat="30.27265200" lon="-97.73930500">
+<ele>165.500000</ele>
+<name><![CDATA[WP238]]></name>
+</wpt>
+<wpt lat="30.27281500" lon="-97.73829200">
+<ele>166.200000</ele>
+<name><![CDATA[WP239]]></name>
+</wpt>
+<wpt lat="30.27374000" lon="-97.73867700">
+<ele>166.100000</ele>
+<name><![CDATA[WP240]]></name>
+</wpt>
+<wpt lat="30.27399000" lon="-97.73857500">
+<ele>165.700000</ele>
+<name><![CDATA[WP241]]></name>
+</wpt>
+<wpt lat="30.27391900" lon="-97.73822700">
+<ele>165.400000</ele>
+<name><![CDATA[WP242]]></name>
+</wpt>
+<wpt lat="30.27460900" lon="-97.73499900">
+<ele>150.300000</ele>
+<name><![CDATA[WP243]]></name>
+</wpt>
+<wpt lat="30.27481800" lon="-97.73375500">
+<ele>158.400000</ele>
+<name><![CDATA[WP244]]></name>
+</wpt>
+<wpt lat="30.27655500" lon="-97.73259400">
+<ele>159.900000</ele>
+<name><![CDATA[WP245]]></name>
+</wpt>
+<wpt lat="30.27700300" lon="-97.73214600">
+<ele>161.600000</ele>
+<name><![CDATA[WP246]]></name>
+</wpt>
+<wpt lat="30.27827200" lon="-97.73150700">
+<ele>167.500000</ele>
+<name><![CDATA[WP247]]></name>
+</wpt>
+<wpt lat="30.27876800" lon="-97.73210100">
+<ele>166.000000</ele>
+<name><![CDATA[WP248]]></name>
+</wpt>
+<wpt lat="30.27972200" lon="-97.73288400">
+<ele>164.000000</ele>
+<name><![CDATA[WP249]]></name>
+</wpt>
+<wpt lat="30.28047600" lon="-97.73216300">
+<ele>164.900000</ele>
+<name><![CDATA[WP250]]></name>
+</wpt>
+<wpt lat="30.28201500" lon="-97.73131400">
+<ele>166.500000</ele>
+<name><![CDATA[WP251]]></name>
+</wpt>
+<wpt lat="30.28245900" lon="-97.73184600">
+<ele>166.900000</ele>
+<name><![CDATA[WP252]]></name>
+</wpt>
+<wpt lat="30.28240700" lon="-97.73247000">
+<ele>163.400000</ele>
+<name><![CDATA[WP253]]></name>
+</wpt>
+<wpt lat="30.28287900" lon="-97.73308700">
+<ele>161.300000</ele>
+<name><![CDATA[WP254]]></name>
+</wpt>
+<wpt lat="30.28332900" lon="-97.73341400">
+<ele>159.100000</ele>
+<name><![CDATA[WP255]]></name>
+</wpt>
+<wpt lat="30.28305100" lon="-97.73448300">
+<ele>156.600000</ele>
+<name><![CDATA[WP256]]></name>
+</wpt>
+<wpt lat="30.28255500" lon="-97.73419500">
+<ele>154.700000</ele>
+<name><![CDATA[WP257]]></name>
+</wpt>
+<wpt lat="30.28175100" lon="-97.73458200">
+<ele>155.200000</ele>
+<name><![CDATA[WP258]]></name>
+</wpt>
+<wpt lat="30.28310200" lon="-97.73575600">
+<ele>163.200000</ele>
+<name><![CDATA[WP259]]></name>
+</wpt>
+<wpt lat="30.28312900" lon="-97.73657900">
+<ele>163.200000</ele>
+<name><![CDATA[WP260]]></name>
+</wpt>
+<wpt lat="30.28323000" lon="-97.73711100">
+<ele>163.700000</ele>
+<name><![CDATA[WP261]]></name>
+</wpt>
+<wpt lat="30.28417400" lon="-97.73692400">
+<ele>164.200000</ele>
+<name><![CDATA[WP262]]></name>
+</wpt>
+<wpt lat="30.28477200" lon="-97.73634000">
+<ele>164.200000</ele>
+<name><![CDATA[WP263]]></name>
+</wpt>
+<wpt lat="30.28481500" lon="-97.73547500">
+<ele>163.900000</ele>
+<name><![CDATA[WP264]]></name>
+</wpt>
+<wpt lat="30.28501900" lon="-97.73504100">
+<ele>159.300000</ele>
+<name><![CDATA[WP265]]></name>
+</wpt>
+<wpt lat="30.28468500" lon="-97.73477100">
+<ele>155.100000</ele>
+<name><![CDATA[WP266]]></name>
+</wpt>
+<wpt lat="30.28420400" lon="-97.73469600">
+<ele>155.500000</ele>
+<name><![CDATA[WP267]]></name>
+</wpt>
+<wpt lat="30.28386700" lon="-97.73544700">
+<ele>165.000000</ele>
+<name><![CDATA[WP268]]></name>
+</wpt>
+<wpt lat="30.28480800" lon="-97.73400600">
+<ele>158.100000</ele>
+<name><![CDATA[WP269]]></name>
+</wpt>
+<wpt lat="30.28506600" lon="-97.73405700">
+<ele>156.700000</ele>
+<name><![CDATA[WP270]]></name>
+</wpt>
+<wpt lat="30.28486500" lon="-97.73336800">
+<ele>160.300000</ele>
+<name><![CDATA[WP271]]></name>
+</wpt>
+<wpt lat="30.28494800" lon="-97.73257000">
+<ele>161.800000</ele>
+<name><![CDATA[WP272]]></name>
+</wpt>
+<wpt lat="30.28541600" lon="-97.73249600">
+<ele>162.300000</ele>
+<name><![CDATA[WP273]]></name>
+</wpt>
+<wpt lat="30.28492300" lon="-97.73196900">
+<ele>164.400000</ele>
+<name><![CDATA[WP274]]></name>
+</wpt>
+<wpt lat="30.28394000" lon="-97.73111800">
+<ele>174.100000</ele>
+<name><![CDATA[WP275]]></name>
+</wpt>
+<wpt lat="30.28334600" lon="-97.72929900">
+<ele>182.400000</ele>
+<name><![CDATA[WP276]]></name>
+</wpt>
+<wpt lat="30.28040600" lon="-97.72795500">
+<ele>182.200000</ele>
+<name><![CDATA[WP277]]></name>
+</wpt>
+<wpt lat="30.27987500" lon="-97.72716500">
+<ele>183.500000</ele>
+<name><![CDATA[WP278]]></name>
+</wpt>
+<wpt lat="30.27854100" lon="-97.72714500">
+<ele>177.600000</ele>
+<name><![CDATA[WP279]]></name>
+</wpt>
+<wpt lat="30.27862500" lon="-97.72652500">
+<ele>177.200000</ele>
+<name><![CDATA[WP280]]></name>
+</wpt>
+<wpt lat="30.27812600" lon="-97.72630100">
+<ele>175.000000</ele>
+<name><![CDATA[WP281]]></name>
+</wpt>
+<wpt lat="30.27836700" lon="-97.72594500">
+<ele>174.200000</ele>
+<name><![CDATA[WP282]]></name>
+</wpt>
+<wpt lat="30.27768300" lon="-97.72577700">
+<ele>173.200000</ele>
+<name><![CDATA[WP283]]></name>
+</wpt>
+<wpt lat="30.27713800" lon="-97.72562500">
+<ele>172.700000</ele>
+<name><![CDATA[WP284]]></name>
+</wpt>
+<wpt lat="30.27717500" lon="-97.72630400">
+<ele>172.700000</ele>
+<name><![CDATA[WP285]]></name>
+</wpt>
+<wpt lat="30.27766200" lon="-97.72715300">
+<ele>173.900000</ele>
+<name><![CDATA[WP286]]></name>
+</wpt>
+<wpt lat="30.27745900" lon="-97.72769400">
+<ele>171.700000</ele>
+<name><![CDATA[WP287]]></name>
+</wpt>
+<wpt lat="30.27725200" lon="-97.72821400">
+<ele>170.300000</ele>
+<name><![CDATA[WP288]]></name>
+</wpt>
+<wpt lat="30.27629200" lon="-97.72848900">
+<ele>166.600000</ele>
+<name><![CDATA[WP289]]></name>
+</wpt>
+<wpt lat="30.27614100" lon="-97.72785500">
+<ele>169.000000</ele>
+<name><![CDATA[WP290]]></name>
+</wpt>
+<wpt lat="30.27590900" lon="-97.72756400">
+<ele>171.300000</ele>
+<name><![CDATA[WP291]]></name>
+</wpt>
+<wpt lat="30.27632200" lon="-97.72727300">
+<ele>170.000000</ele>
+<name><![CDATA[WP292]]></name>
+</wpt>
+<wpt lat="30.27633500" lon="-97.72661800">
+<ele>171.400000</ele>
+<name><![CDATA[WP293]]></name>
+</wpt>
+<wpt lat="30.27592800" lon="-97.72663000">
+<ele>171.900000</ele>
+<name><![CDATA[WP294]]></name>
+</wpt>
+<wpt lat="30.27540100" lon="-97.72666300">
+<ele>173.800000</ele>
+<name><![CDATA[WP295]]></name>
+</wpt>
+<wpt lat="30.27525200" lon="-97.72706500">
+<ele>173.800000</ele>
+<name><![CDATA[WP296]]></name>
+</wpt>
+<wpt lat="30.27539200" lon="-97.72725100">
+<ele>173.200000</ele>
+<name><![CDATA[WP297]]></name>
+</wpt>
+<wpt lat="30.27477000" lon="-97.72769700">
+<ele>171.500000</ele>
+<name><![CDATA[WP298]]></name>
+</wpt>
+<wpt lat="30.27507700" lon="-97.72824200">
+<ele>171.600000</ele>
+<name><![CDATA[WP299]]></name>
+</wpt>
+<wpt lat="30.27534900" lon="-97.72816100">
+<ele>171.600000</ele>
+<name><![CDATA[WP300]]></name>
+</wpt>
+<wpt lat="30.27451800" lon="-97.72924900">
+<ele>170.700000</ele>
+<name><![CDATA[WP301]]></name>
+</wpt>
+<wpt lat="30.27431300" lon="-97.72952000">
+<ele>169.700000</ele>
+<name><![CDATA[WP302]]></name>
+</wpt>
+<wpt lat="30.27523900" lon="-97.73055600">
+<ele>163.000000</ele>
+<name><![CDATA[WP303]]></name>
+</wpt>
+<wpt lat="30.27337000" lon="-97.73069500">
+<ele>165.100000</ele>
+<name><![CDATA[WP304]]></name>
+</wpt>
+<wpt lat="30.27198300" lon="-97.73069000">
+<ele>158.000000</ele>
+<name><![CDATA[WP305]]></name>
+</wpt>
+<wpt lat="30.27183900" lon="-97.73103500">
+<ele>157.600000</ele>
+<name><![CDATA[WP306]]></name>
+</wpt>
+<wpt lat="30.27138300" lon="-97.72963900">
+<ele>161.800000</ele>
+<name><![CDATA[WP307]]></name>
+</wpt>
+<wpt lat="30.27249700" lon="-97.72878400">
+<ele>162.100000</ele>
+<name><![CDATA[WP308]]></name>
+</wpt>
+<wpt lat="30.27359600" lon="-97.72788600">
+<ele>167.400000</ele>
+<name><![CDATA[WP309]]></name>
+</wpt>
+<wpt lat="30.27285800" lon="-97.72629900">
+<ele>169.400000</ele>
+<name><![CDATA[WP310]]></name>
+</wpt>
+<wpt lat="30.27261600" lon="-97.72596300">
+<ele>168.500000</ele>
+<name><![CDATA[WP311]]></name>
+</wpt>
+<wpt lat="30.27164400" lon="-97.72750600">
+<ele>167.200000</ele>
+<name><![CDATA[WP312]]></name>
+</wpt>
+<wpt lat="30.27023300" lon="-97.72593200">
+<ele>168.100000</ele>
+<name><![CDATA[WP313]]></name>
+</wpt>
+<wpt lat="30.26902400" lon="-97.72787700">
+<ele>165.200000</ele>
+<name><![CDATA[WP314]]></name>
+</wpt>
+<wpt lat="30.26854400" lon="-97.72806600">
+<ele>165.500000</ele>
+<name><![CDATA[WP315]]></name>
+</wpt>
+<wpt lat="30.26918800" lon="-97.72870200">
+<ele>166.200000</ele>
+<name><![CDATA[WP316]]></name>
+</wpt>
+<wpt lat="30.26934000" lon="-97.72941800">
+<ele>165.800000</ele>
+<name><![CDATA[WP317]]></name>
+</wpt>
+<wpt lat="30.26950000" lon="-97.73037100">
+<ele>161.600000</ele>
+<name><![CDATA[WP318]]></name>
+</wpt>
+<wpt lat="30.26885600" lon="-97.73072800">
+<ele>165.200000</ele>
+<name><![CDATA[WP319]]></name>
+</wpt>
+<wpt lat="30.26803400" lon="-97.73140800">
+<ele>163.300000</ele>
+<name><![CDATA[WP320]]></name>
+</wpt>
+<wpt lat="30.26727600" lon="-97.73183200">
+<ele>164.600000</ele>
+<name><![CDATA[WP321]]></name>
+</wpt>
+<wpt lat="30.26721800" lon="-97.73220500">
+<ele>165.300000</ele>
+<name><![CDATA[WP322]]></name>
+</wpt>
+<wpt lat="30.26712600" lon="-97.73239800">
+<ele>164.700000</ele>
+<name><![CDATA[WP323]]></name>
+</wpt>
+<wpt lat="30.26680600" lon="-97.73199000">
+<ele>164.100000</ele>
+<name><![CDATA[WP324]]></name>
+</wpt>
+<wpt lat="30.26642700" lon="-97.73032200">
+<ele>158.800000</ele>
+<name><![CDATA[WP325]]></name>
+</wpt>
+<wpt lat="30.26753000" lon="-97.73044800">
+<ele>164.500000</ele>
+<name><![CDATA[WP326]]></name>
+</wpt>
+<wpt lat="30.26818400" lon="-97.72936000">
+<ele>168.100000</ele>
+<name><![CDATA[WP327]]></name>
+</wpt>
+<wpt lat="30.26692500" lon="-97.72826600">
+<ele>165.200000</ele>
+<name><![CDATA[WP328]]></name>
+</wpt>
+<wpt lat="30.26517400" lon="-97.73002800">
+<ele>156.700000</ele>
+<name><![CDATA[WP329]]></name>
+</wpt>
+<wpt lat="30.26742900" lon="-97.73370100">
+<ele>146.700000</ele>
+<name><![CDATA[WP330]]></name>
+</wpt>
+<wpt lat="30.26767800" lon="-97.73454900">
+<ele>143.900000</ele>
+<name><![CDATA[WP331]]></name>
+</wpt>
+<wpt lat="30.26779200" lon="-97.73489200">
+<ele>142.800000</ele>
+<name><![CDATA[WP332]]></name>
+</wpt>
+<wpt lat="30.26849700" lon="-97.73424100">
+<ele>144.500000</ele>
+<name><![CDATA[WP333]]></name>
+</wpt>
+<wpt lat="30.26978600" lon="-97.73449800">
+<ele>144.300000</ele>
+<name><![CDATA[WP334]]></name>
+</wpt>
+<wpt lat="30.26971700" lon="-97.73505800">
+<ele>140.900000</ele>
+<name><![CDATA[WP335]]></name>
+</wpt>
+<wpt lat="30.27000400" lon="-97.73161600">
+<ele>157.600000</ele>
+<name><![CDATA[WP336]]></name>
+</wpt>
+<wpt lat="30.27010800" lon="-97.73136000">
+<ele>156.100000</ele>
+<name><![CDATA[WP337]]></name>
+</wpt>
+<wpt lat="30.27048000" lon="-97.73122200">
+<ele>155.500000</ele>
+<name><![CDATA[WP338]]></name>
+</wpt>
+<wpt lat="30.27047900" lon="-97.73167000">
+<ele>155.300000</ele>
+<name><![CDATA[WP339]]></name>
+</wpt>
+<wpt lat="30.26749600" lon="-97.73751400">
+<ele>148.600000</ele>
+<name><![CDATA[WP340]]></name>
+</wpt>
+<wpt lat="30.26748300" lon="-97.73825100">
+<ele>149.300000</ele>
+<name><![CDATA[WP341]]></name>
+</wpt>
+<wpt lat="30.26752300" lon="-97.73850900">
+<ele>149.600000</ele>
+<name><![CDATA[WP342]]></name>
+</wpt>
+<wpt lat="30.26761300" lon="-97.73903000">
+<ele>150.400000</ele>
+<name><![CDATA[WP343]]></name>
+</wpt>
+<wpt lat="30.26728500" lon="-97.73962500">
+<ele>149.000000</ele>
+<name><![CDATA[WP344]]></name>
+</wpt>
+<wpt lat="30.26735700" lon="-97.73991700">
+<ele>149.100000</ele>
+<name><![CDATA[WP345]]></name>
+</wpt>
+<wpt lat="30.26745000" lon="-97.74019600">
+<ele>149.100000</ele>
+<name><![CDATA[WP346]]></name>
+</wpt>
+<wpt lat="30.26779000" lon="-97.74037200">
+<ele>150.800000</ele>
+<name><![CDATA[WP347]]></name>
+</wpt>
+<wpt lat="30.26831700" lon="-97.73972000">
+<ele>158.000000</ele>
+<name><![CDATA[WP348]]></name>
+</wpt>
+<wpt lat="30.26835800" lon="-97.73900000">
+<ele>154.600000</ele>
+<name><![CDATA[WP349]]></name>
+</wpt>
+<wpt lat="30.26677500" lon="-97.73857500">
+<ele>147.700000</ele>
+<name><![CDATA[WP350]]></name>
+</wpt>
+<wpt lat="30.26669200" lon="-97.73935800">
+<ele>147.900000</ele>
+<name><![CDATA[WP351]]></name>
+</wpt>
+<wpt lat="30.26657900" lon="-97.73964600">
+<ele>147.700000</ele>
+<name><![CDATA[WP352]]></name>
+</wpt>
+<wpt lat="30.26624000" lon="-97.74036000">
+<ele>147.400000</ele>
+<name><![CDATA[WP353]]></name>
+</wpt>
+<wpt lat="30.26702400" lon="-97.74067400">
+<ele>148.400000</ele>
+<name><![CDATA[WP354]]></name>
+</wpt>
+<wpt lat="30.26712500" lon="-97.74140800">
+<ele>148.500000</ele>
+<name><![CDATA[WP355]]></name>
+</wpt>
+<wpt lat="30.26626500" lon="-97.74308900">
+<ele>147.200000</ele>
+<name><![CDATA[WP356]]></name>
+</wpt>
+<wpt lat="30.26668800" lon="-97.74351400">
+<ele>148.000000</ele>
+<name><![CDATA[WP357]]></name>
+</wpt>
+<wpt lat="30.26614300" lon="-97.74372200">
+<ele>146.700000</ele>
+<name><![CDATA[WP358]]></name>
+</wpt>
+<wpt lat="30.26570500" lon="-97.74380900">
+<ele>146.100000</ele>
+<name><![CDATA[WP359]]></name>
+</wpt>
+<wpt lat="30.26563300" lon="-97.74351100">
+<ele>146.000000</ele>
+<name><![CDATA[WP360]]></name>
+</wpt>
+<wpt lat="30.26495700" lon="-97.74335500">
+<ele>145.400000</ele>
+<name><![CDATA[WP361]]></name>
+</wpt>
+<wpt lat="30.26452200" lon="-97.74347000">
+<ele>144.900000</ele>
+<name><![CDATA[WP362]]></name>
+</wpt>
+<wpt lat="30.26404900" lon="-97.74361800">
+<ele>144.500000</ele>
+<name><![CDATA[WP363]]></name>
+</wpt>
+<wpt lat="30.26411100" lon="-97.74400700">
+<ele>144.500000</ele>
+<name><![CDATA[WP364]]></name>
+</wpt>
+<wpt lat="30.26391800" lon="-97.74456100">
+<ele>144.100000</ele>
+<name><![CDATA[WP365]]></name>
+</wpt>
+<wpt lat="30.26332100" lon="-97.74479300">
+<ele>143.800000</ele>
+<name><![CDATA[WP366]]></name>
+</wpt>
+<wpt lat="30.26324800" lon="-97.74506700">
+<ele>143.000000</ele>
+<name><![CDATA[WP367]]></name>
+</wpt>
+<wpt lat="30.26282600" lon="-97.74495300">
+<ele>138.900000</ele>
+<name><![CDATA[WP368]]></name>
+</wpt>
+<wpt lat="30.26282000" lon="-97.74388300">
+<ele>142.900000</ele>
+<name><![CDATA[WP369]]></name>
+</wpt>
+<wpt lat="30.26339900" lon="-97.74406700">
+<ele>143.800000</ele>
+<name><![CDATA[WP370]]></name>
+</wpt>
+<wpt lat="30.26220400" lon="-97.74413500">
+<ele>135.800000</ele>
+<name><![CDATA[WP371]]></name>
+</wpt>
+<wpt lat="30.26211000" lon="-97.74294900">
+<ele>142.100000</ele>
+<name><![CDATA[WP372]]></name>
+</wpt>
+<wpt lat="30.26163700" lon="-97.74310200">
+<ele>137.100000</ele>
+<name><![CDATA[WP373]]></name>
+</wpt>
+<wpt lat="30.26117400" lon="-97.74269700">
+<ele>134.600000</ele>
+<name><![CDATA[WP374]]></name>
+</wpt>
+<wpt lat="30.26340300" lon="-97.74058900">
+<ele>143.600000</ele>
+<name><![CDATA[WP375]]></name>
+</wpt>
+<wpt lat="30.26365500" lon="-97.74020200">
+<ele>143.500000</ele>
+<name><![CDATA[WP376]]></name>
+</wpt>
+<wpt lat="30.26331200" lon="-97.73978700">
+<ele>142.500000</ele>
+<name><![CDATA[WP377]]></name>
+</wpt>
+<wpt lat="30.26351800" lon="-97.73956200">
+<ele>142.500000</ele>
+<name><![CDATA[WP378]]></name>
+</wpt>
+<wpt lat="30.26488500" lon="-97.74210600">
+<ele>145.600000</ele>
+<name><![CDATA[WP379]]></name>
+</wpt>
+<wpt lat="30.26410900" lon="-97.74267200">
+<ele>144.700000</ele>
+<name><![CDATA[WP380]]></name>
+</wpt>
+<wpt lat="30.26484200" lon="-97.74418500">
+<ele>145.000000</ele>
+<name><![CDATA[WP381]]></name>
+</wpt>
+<wpt lat="30.26454400" lon="-97.74464700">
+<ele>144.500000</ele>
+<name><![CDATA[WP382]]></name>
+</wpt>
+<wpt lat="30.26484700" lon="-97.74566900">
+<ele>144.300000</ele>
+<name><![CDATA[WP383]]></name>
+</wpt>
+<wpt lat="30.26374400" lon="-97.74622200">
+<ele>142.900000</ele>
+<name><![CDATA[WP384]]></name>
+</wpt>
+<wpt lat="30.26333500" lon="-97.74597100">
+<ele>135.700000</ele>
+<name><![CDATA[WP385]]></name>
+</wpt>
+<wpt lat="30.26300900" lon="-97.74808400">
+<ele>130.500000</ele>
+<name><![CDATA[WP386]]></name>
+</wpt>
+<wpt lat="30.26515500" lon="-97.74746900">
+<ele>143.100000</ele>
+<name><![CDATA[WP387]]></name>
+</wpt>
+<wpt lat="30.26534400" lon="-97.74811500">
+<ele>142.800000</ele>
+<name><![CDATA[WP388]]></name>
+</wpt>
+<wpt lat="30.26557900" lon="-97.74849800">
+<ele>142.400000</ele>
+<name><![CDATA[WP389]]></name>
+</wpt>
+<wpt lat="30.26543400" lon="-97.74875300">
+<ele>141.800000</ele>
+<name><![CDATA[WP390]]></name>
+</wpt>
+<wpt lat="30.26637300" lon="-97.74874500">
+<ele>141.700000</ele>
+<name><![CDATA[WP391]]></name>
+</wpt>
+<wpt lat="30.26671300" lon="-97.74972500">
+<ele>138.200000</ele>
+<name><![CDATA[WP392]]></name>
+</wpt>
+<wpt lat="30.26700400" lon="-97.74969800">
+<ele>138.200000</ele>
+<name><![CDATA[WP393]]></name>
+</wpt>
+<wpt lat="30.26704600" lon="-97.75011300">
+<ele>139.200000</ele>
+<name><![CDATA[WP394]]></name>
+</wpt>
+<wpt lat="30.26813100" lon="-97.75003000">
+<ele>141.700000</ele>
+<name><![CDATA[WP395]]></name>
+</wpt>
+<wpt lat="30.26845600" lon="-97.74985000">
+<ele>142.200000</ele>
+<name><![CDATA[WP396]]></name>
+</wpt>
+<wpt lat="30.26790100" lon="-97.74925800">
+<ele>141.500000</ele>
+<name><![CDATA[WP397]]></name>
+</wpt>
+<wpt lat="30.26794400" lon="-97.74897700">
+<ele>142.000000</ele>
+<name><![CDATA[WP398]]></name>
+</wpt>
+<wpt lat="30.26746700" lon="-97.74752400">
+<ele>145.100000</ele>
+<name><![CDATA[WP399]]></name>
+</wpt>
+<wpt lat="30.26783700" lon="-97.74731100">
+<ele>146.300000</ele>
+<name><![CDATA[WP400]]></name>
+</wpt>
+<wpt lat="30.26796700" lon="-97.74710200">
+<ele>146.900000</ele>
+<name><![CDATA[WP401]]></name>
+</wpt>
+<wpt lat="30.26784000" lon="-97.74606200">
+<ele>148.500000</ele>
+<name><![CDATA[WP402]]></name>
+</wpt>
+<wpt lat="30.26716600" lon="-97.74568000">
+<ele>146.800000</ele>
+<name><![CDATA[WP403]]></name>
+</wpt>
+<wpt lat="30.26679800" lon="-97.74531800">
+<ele>146.900000</ele>
+<name><![CDATA[WP404]]></name>
+</wpt>
+<wpt lat="30.26674000" lon="-97.74669800">
+<ele>145.200000</ele>
+<name><![CDATA[WP405]]></name>
+</wpt>
+<wpt lat="30.26687300" lon="-97.74769300">
+<ele>143.900000</ele>
+<name><![CDATA[WP406]]></name>
+</wpt>
+<wpt lat="30.26575800" lon="-97.74770000">
+<ele>143.200000</ele>
+<name><![CDATA[WP407]]></name>
+</wpt>
+<wpt lat="30.26910600" lon="-97.74758200">
+<ele>147.400000</ele>
+<name><![CDATA[WP408]]></name>
+</wpt>
+<wpt lat="30.26929900" lon="-97.74729200">
+<ele>148.100000</ele>
+<name><![CDATA[WP409]]></name>
+</wpt>
+<wpt lat="30.26978700" lon="-97.74615800">
+<ele>153.100000</ele>
+<name><![CDATA[WP410]]></name>
+</wpt>
+<wpt lat="30.27035900" lon="-97.74596200">
+<ele>157.300000</ele>
+<name><![CDATA[WP411]]></name>
+</wpt>
+<wpt lat="30.27088100" lon="-97.74582300">
+<ele>161.900000</ele>
+<name><![CDATA[WP412]]></name>
+</wpt>
+<wpt lat="30.27120300" lon="-97.74569900">
+<ele>163.400000</ele>
+<name><![CDATA[WP413]]></name>
+</wpt>
+<wpt lat="30.27168200" lon="-97.74516600">
+<ele>163.200000</ele>
+<name><![CDATA[WP414]]></name>
+</wpt>
+<wpt lat="30.27217500" lon="-97.74530900">
+<ele>161.300000</ele>
+<name><![CDATA[WP415]]></name>
+</wpt>
+<wpt lat="30.27195800" lon="-97.74578600">
+<ele>160.400000</ele>
+<name><![CDATA[WP416]]></name>
+</wpt>
+<wpt lat="30.27212800" lon="-97.74601200">
+<ele>158.800000</ele>
+<name><![CDATA[WP417]]></name>
+</wpt>
+<wpt lat="30.27321400" lon="-97.74592600">
+<ele>160.600000</ele>
+<name><![CDATA[WP418]]></name>
+</wpt>
+<wpt lat="30.27165100" lon="-97.74446100">
+<ele>164.800000</ele>
+<name><![CDATA[WP419]]></name>
+</wpt>
+<wpt lat="30.27045600" lon="-97.74494200">
+<ele>161.800000</ele>
+<name><![CDATA[WP420]]></name>
+</wpt>
+<wpt lat="30.26989200" lon="-97.74491100">
+<ele>158.700000</ele>
+<name><![CDATA[WP421]]></name>
+</wpt>
+<wpt lat="30.26936400" lon="-97.74515300">
+<ele>155.300000</ele>
+<name><![CDATA[WP422]]></name>
+</wpt>
+<wpt lat="30.26879800" lon="-97.74487900">
+<ele>152.000000</ele>
+<name><![CDATA[WP423]]></name>
+</wpt>
+<wpt lat="30.26843300" lon="-97.74457600">
+<ele>151.200000</ele>
+<name><![CDATA[WP424]]></name>
+</wpt>
+<wpt lat="30.26864800" lon="-97.74425500">
+<ele>151.900000</ele>
+<name><![CDATA[WP425]]></name>
+</wpt>
+<wpt lat="30.26854800" lon="-97.74397000">
+<ele>151.700000</ele>
+<name><![CDATA[WP426]]></name>
+</wpt>
+<wpt lat="30.26931500" lon="-97.74330700">
+<ele>154.400000</ele>
+<name><![CDATA[WP427]]></name>
+</wpt>
+<wpt lat="30.26968100" lon="-97.74160200">
+<ele>153.500000</ele>
+<name><![CDATA[WP428]]></name>
+</wpt>
+<wpt lat="30.27000900" lon="-97.74172800">
+<ele>153.700000</ele>
+<name><![CDATA[WP429]]></name>
+</wpt>
+<wpt lat="30.27105800" lon="-97.74669200">
+<ele>162.300000</ele>
+<name><![CDATA[WP430]]></name>
+</wpt>
+<wpt lat="30.27061300" lon="-97.74685300">
+<ele>157.700000</ele>
+<name><![CDATA[WP431]]></name>
+</wpt>
+<wpt lat="30.27051200" lon="-97.74729800">
+<ele>149.900000</ele>
+<name><![CDATA[WP432]]></name>
+</wpt>
+<wpt lat="30.26839400" lon="-97.75138400">
+<ele>140.000000</ele>
+<name><![CDATA[WP433]]></name>
+</wpt>
+<wpt lat="30.26937000" lon="-97.75202400">
+<ele>136.600000</ele>
+<name><![CDATA[WP434]]></name>
+</wpt>
+<wpt lat="30.27168300" lon="-97.75250700">
+<ele>146.400000</ele>
+<name><![CDATA[WP435]]></name>
+</wpt>
+<wpt lat="30.27195500" lon="-97.75304900">
+<ele>148.300000</ele>
+<name><![CDATA[WP436]]></name>
+</wpt>
+<wpt lat="30.27257400" lon="-97.75359900">
+<ele>152.300000</ele>
+<name><![CDATA[WP437]]></name>
+</wpt>
+<wpt lat="30.27273900" lon="-97.75248300">
+<ele>148.500000</ele>
+<name><![CDATA[WP438]]></name>
+</wpt>
+<wpt lat="30.27310200" lon="-97.75168800">
+<ele>144.300000</ele>
+<name><![CDATA[WP439]]></name>
+</wpt>
+<wpt lat="30.27596000" lon="-97.74862600">
+<ele>153.000000</ele>
+<name><![CDATA[WP440]]></name>
+</wpt>
+<wpt lat="30.27810900" lon="-97.74909400">
+<ele>147.600000</ele>
+<name><![CDATA[WP441]]></name>
+</wpt>
+<wpt lat="30.27873000" lon="-97.74941100">
+<ele>148.800000</ele>
+<name><![CDATA[WP442]]></name>
+</wpt>
+<wpt lat="30.27895200" lon="-97.74742100">
+<ele>167.900000</ele>
+<name><![CDATA[WP443]]></name>
+</wpt>
+<wpt lat="30.27949900" lon="-97.74739400">
+<ele>170.700000</ele>
+<name><![CDATA[WP444]]></name>
+</wpt>
+<wpt lat="30.27947000" lon="-97.74700100">
+<ele>171.400000</ele>
+<name><![CDATA[WP445]]></name>
+</wpt>
+<wpt lat="30.27952500" lon="-97.74609400">
+<ele>168.300000</ele>
+<name><![CDATA[WP446]]></name>
+</wpt>
+<wpt lat="30.27897200" lon="-97.74567100">
+<ele>163.000000</ele>
+<name><![CDATA[WP447]]></name>
+</wpt>
+<wpt lat="30.27870300" lon="-97.74656100">
+<ele>163.700000</ele>
+<name><![CDATA[WP448]]></name>
+</wpt>
+<wpt lat="30.27854700" lon="-97.74477000">
+<ele>161.100000</ele>
+<name><![CDATA[WP449]]></name>
+</wpt>
+<wpt lat="30.27812400" lon="-97.74420800">
+<ele>162.100000</ele>
+<name><![CDATA[WP450]]></name>
+</wpt>
+<wpt lat="30.27747400" lon="-97.74479600">
+<ele>160.200000</ele>
+<name><![CDATA[WP451]]></name>
+</wpt>
+<wpt lat="30.27698900" lon="-97.74478800">
+<ele>159.900000</ele>
+<name><![CDATA[WP452]]></name>
+</wpt>
+<wpt lat="30.27705500" lon="-97.74428900">
+<ele>161.600000</ele>
+<name><![CDATA[WP453]]></name>
+</wpt>
+<wpt lat="30.27631800" lon="-97.74510800">
+<ele>159.200000</ele>
+<name><![CDATA[WP454]]></name>
+</wpt>
+<wpt lat="30.27524500" lon="-97.74504600">
+<ele>163.700000</ele>
+<name><![CDATA[WP455]]></name>
+</wpt>
+<wpt lat="30.27666500" lon="-97.74317500">
+<ele>164.700000</ele>
+<name><![CDATA[WP456]]></name>
+</wpt>
+<wpt lat="30.27772700" lon="-97.74332500">
+<ele>163.600000</ele>
+<name><![CDATA[WP457]]></name>
+</wpt>
+<wpt lat="30.27741800" lon="-97.74188600">
+<ele>166.400000</ele>
+<name><![CDATA[WP458]]></name>
+</wpt>
+<wpt lat="30.27899500" lon="-97.74192300">
+<ele>168.400000</ele>
+<name><![CDATA[WP459]]></name>
+</wpt>
+<wpt lat="30.27896100" lon="-97.74251100">
+<ele>166.500000</ele>
+<name><![CDATA[WP460]]></name>
+</wpt>
+<wpt lat="30.27967900" lon="-97.74192400">
+<ele>169.100000</ele>
+<name><![CDATA[WP461]]></name>
+</wpt>
+<wpt lat="30.27988400" lon="-97.74140800">
+<ele>171.400000</ele>
+<name><![CDATA[WP462]]></name>
+</wpt>
+<wpt lat="30.27946800" lon="-97.74082700">
+<ele>170.900000</ele>
+<name><![CDATA[WP463]]></name>
+</wpt>
+<wpt lat="30.28004800" lon="-97.74044000">
+<ele>173.600000</ele>
+<name><![CDATA[WP464]]></name>
+</wpt>
+<wpt lat="30.28022700" lon="-97.74007300">
+<ele>173.300000</ele>
+<name><![CDATA[WP465]]></name>
+</wpt>
+<wpt lat="30.28031900" lon="-97.73907000">
+<ele>167.100000</ele>
+<name><![CDATA[WP466]]></name>
+</wpt>
+<wpt lat="30.28073400" lon="-97.73892900">
+<ele>165.300000</ele>
+<name><![CDATA[WP467]]></name>
+</wpt>
+<wpt lat="30.28019300" lon="-97.73853500">
+<ele>163.500000</ele>
+<name><![CDATA[WP468]]></name>
+</wpt>
+<wpt lat="30.28073700" lon="-97.73783300">
+<ele>160.600000</ele>
+<name><![CDATA[WP469]]></name>
+</wpt>
+<wpt lat="30.28088300" lon="-97.73722900">
+<ele>160.300000</ele>
+<name><![CDATA[WP470]]></name>
+</wpt>
+<wpt lat="30.28137100" lon="-97.73795700">
+<ele>161.300000</ele>
+<name><![CDATA[WP471]]></name>
+</wpt>
+<wpt lat="30.28194500" lon="-97.73855100">
+<ele>164.000000</ele>
+<name><![CDATA[WP472]]></name>
+</wpt>
+<wpt lat="30.28120000" lon="-97.73963200">
+<ele>170.700000</ele>
+<name><![CDATA[WP473]]></name>
+</wpt>
+<wpt lat="30.28210900" lon="-97.74086100">
+<ele>174.800000</ele>
+<name><![CDATA[WP474]]></name>
+</wpt>
+<wpt lat="30.28133200" lon="-97.74130600">
+<ele>174.000000</ele>
+<name><![CDATA[WP475]]></name>
+</wpt>
+<wpt lat="30.28149500" lon="-97.74249400">
+<ele>168.600000</ele>
+<name><![CDATA[WP476]]></name>
+</wpt>
+<wpt lat="30.28222300" lon="-97.74225400">
+<ele>170.300000</ele>
+<name><![CDATA[WP477]]></name>
+</wpt>
+<wpt lat="30.28257000" lon="-97.74221800">
+<ele>170.800000</ele>
+<name><![CDATA[WP478]]></name>
+</wpt>
+<wpt lat="30.28226500" lon="-97.74291900">
+<ele>168.100000</ele>
+<name><![CDATA[WP479]]></name>
+</wpt>
+<wpt lat="30.28221100" lon="-97.74445200">
+<ele>170.700000</ele>
+<name><![CDATA[WP480]]></name>
+</wpt>
+<wpt lat="30.28212300" lon="-97.74523000">
+<ele>174.700000</ele>
+<name><![CDATA[WP481]]></name>
+</wpt>
+<wpt lat="30.28219600" lon="-97.74608800">
+<ele>180.700000</ele>
+<name><![CDATA[WP482]]></name>
+</wpt>
+<wpt lat="30.28156500" lon="-97.74633800">
+<ele>182.400000</ele>
+<name><![CDATA[WP483]]></name>
+</wpt>
+<wpt lat="30.28130000" lon="-97.74514200">
+<ele>172.600000</ele>
+<name><![CDATA[WP484]]></name>
+</wpt>
+<wpt lat="30.28056900" lon="-97.74502400">
+<ele>169.100000</ele>
+<name><![CDATA[WP485]]></name>
+</wpt>
+<wpt lat="30.27976300" lon="-97.74359000">
+<ele>163.600000</ele>
+<name><![CDATA[WP486]]></name>
+</wpt>
+<wpt lat="30.27999300" lon="-97.74272300">
+<ele>166.200000</ele>
+<name><![CDATA[WP487]]></name>
+</wpt>
+<wpt lat="30.28044600" lon="-97.74213400">
+<ele>169.200000</ele>
+<name><![CDATA[WP488]]></name>
+</wpt>
+<wpt lat="30.27925400" lon="-97.73969100">
+<ele>167.500000</ele>
+<name><![CDATA[WP489]]></name>
+</wpt>
+<wpt lat="30.27963600" lon="-97.73932900">
+<ele>166.700000</ele>
+<name><![CDATA[WP490]]></name>
+</wpt>
+<wpt lat="30.27934100" lon="-97.73873700">
+<ele>163.800000</ele>
+<name><![CDATA[WP491]]></name>
+</wpt>
+<wpt lat="30.27887700" lon="-97.73898700">
+<ele>164.200000</ele>
+<name><![CDATA[WP492]]></name>
+</wpt>
+<wpt lat="30.27917300" lon="-97.73806300">
+<ele>161.100000</ele>
+<name><![CDATA[WP493]]></name>
+</wpt>
+<wpt lat="30.27883100" lon="-97.73796600">
+<ele>160.700000</ele>
+<name><![CDATA[WP494]]></name>
+</wpt>
+<wpt lat="30.27875200" lon="-97.73752300">
+<ele>159.000000</ele>
+<name><![CDATA[WP495]]></name>
+</wpt>
+<wpt lat="30.27816200" lon="-97.73750500">
+<ele>160.000000</ele>
+<name><![CDATA[WP496]]></name>
+</wpt>
+<wpt lat="30.27813200" lon="-97.73782000">
+<ele>161.500000</ele>
+<name><![CDATA[WP497]]></name>
+</wpt>
+<wpt lat="30.27741100" lon="-97.73720300">
+<ele>159.300000</ele>
+<name><![CDATA[WP498]]></name>
+</wpt>
+<wpt lat="30.27768200" lon="-97.73643300">
+<ele>155.500000</ele>
+<name><![CDATA[WP499]]></name>
+</wpt>
+<wpt lat="30.27783900" lon="-97.73607200">
+<ele>154.000000</ele>
+<name><![CDATA[WP500]]></name>
+</wpt>
+<wpt lat="30.27931700" lon="-97.73651400">
+<ele>155.400000</ele>
+<name><![CDATA[WP501]]></name>
+</wpt>
+<wpt lat="30.27997400" lon="-97.73466400">
+<ele>153.500000</ele>
+<name><![CDATA[WP502]]></name>
+</wpt>
+<wpt lat="30.28229300" lon="-97.73677100">
+<ele>162.700000</ele>
+<name><![CDATA[WP503]]></name>
+</wpt>
+<wpt lat="30.28404200" lon="-97.73788800">
+<ele>168.000000</ele>
+<name><![CDATA[WP504]]></name>
+</wpt>
+<wpt lat="30.28383000" lon="-97.73829300">
+<ele>168.700000</ele>
+<name><![CDATA[WP505]]></name>
+</wpt>
+<wpt lat="30.28342100" lon="-97.73929600">
+<ele>171.000000</ele>
+<name><![CDATA[WP506]]></name>
+</wpt>
+<wpt lat="30.28373300" lon="-97.73964300">
+<ele>172.400000</ele>
+<name><![CDATA[WP507]]></name>
+</wpt>
+<wpt lat="30.28414300" lon="-97.73990900">
+<ele>174.200000</ele>
+<name><![CDATA[WP508]]></name>
+</wpt>
+<wpt lat="30.28455100" lon="-97.73938700">
+<ele>176.900000</ele>
+<name><![CDATA[WP509]]></name>
+</wpt>
+<wpt lat="30.28491700" lon="-97.73951100">
+<ele>179.900000</ele>
+<name><![CDATA[WP510]]></name>
+</wpt>
+<wpt lat="30.28476900" lon="-97.73983000">
+<ele>178.700000</ele>
+<name><![CDATA[WP511]]></name>
+</wpt>
+<wpt lat="30.28517900" lon="-97.74064100">
+<ele>176.700000</ele>
+<name><![CDATA[WP512]]></name>
+</wpt>
+<wpt lat="30.28569000" lon="-97.74029700">
+<ele>180.400000</ele>
+<name><![CDATA[WP513]]></name>
+</wpt>
+<wpt lat="30.28635300" lon="-97.74067500">
+<ele>181.700000</ele>
+<name><![CDATA[WP514]]></name>
+</wpt>
+<wpt lat="30.28627700" lon="-97.74136500">
+<ele>179.000000</ele>
+<name><![CDATA[WP515]]></name>
+</wpt>
+<wpt lat="30.28585200" lon="-97.74125800">
+<ele>179.000000</ele>
+<name><![CDATA[WP516]]></name>
+</wpt>
+<wpt lat="30.28640900" lon="-97.74196800">
+<ele>177.800000</ele>
+<name><![CDATA[WP517]]></name>
+</wpt>
+<wpt lat="30.28665200" lon="-97.74253800">
+<ele>178.600000</ele>
+<name><![CDATA[WP518]]></name>
+</wpt>
+<wpt lat="30.28629000" lon="-97.74266800">
+<ele>177.800000</ele>
+<name><![CDATA[WP519]]></name>
+</wpt>
+<wpt lat="30.28663300" lon="-97.74342000">
+<ele>179.600000</ele>
+<name><![CDATA[WP520]]></name>
+</wpt>
+<wpt lat="30.28705000" lon="-97.74462900">
+<ele>179.800000</ele>
+<name><![CDATA[WP521]]></name>
+</wpt>
+<wpt lat="30.28507700" lon="-97.74403300">
+<ele>177.500000</ele>
+<name><![CDATA[WP522]]></name>
+</wpt>
+<wpt lat="30.28409800" lon="-97.74389000">
+<ele>175.600000</ele>
+<name><![CDATA[WP523]]></name>
+</wpt>
+<wpt lat="30.28338900" lon="-97.74396800">
+<ele>173.700000</ele>
+<name><![CDATA[WP524]]></name>
+</wpt>
+<wpt lat="30.28389200" lon="-97.74213300">
+<ele>172.600000</ele>
+<name><![CDATA[WP525]]></name>
+</wpt>
+<wpt lat="30.28393000" lon="-97.74129500">
+<ele>174.900000</ele>
+<name><![CDATA[WP526]]></name>
+</wpt>
+<wpt lat="30.28429500" lon="-97.74094500">
+<ele>175.800000</ele>
+<name><![CDATA[WP527]]></name>
+</wpt>
+<wpt lat="30.28493400" lon="-97.74143400">
+<ele>177.100000</ele>
+<name><![CDATA[WP528]]></name>
+</wpt>
+<wpt lat="30.28480400" lon="-97.74200100">
+<ele>174.900000</ele>
+<name><![CDATA[WP529]]></name>
+</wpt>
+<wpt lat="30.28526500" lon="-97.74198200">
+<ele>176.000000</ele>
+<name><![CDATA[WP530]]></name>
+</wpt>
+<wpt lat="30.28708000" lon="-97.74124900">
+<ele>179.800000</ele>
+<name><![CDATA[WP531]]></name>
+</wpt>
+<wpt lat="30.28723100" lon="-97.74170700">
+<ele>179.300000</ele>
+<name><![CDATA[WP532]]></name>
+</wpt>
+<wpt lat="30.28737800" lon="-97.74063500">
+<ele>183.200000</ele>
+<name><![CDATA[WP533]]></name>
+</wpt>
+<wpt lat="30.28725300" lon="-97.73980800">
+<ele>181.900000</ele>
+<name><![CDATA[WP534]]></name>
+</wpt>
+<wpt lat="30.28707900" lon="-97.73950600">
+<ele>180.400000</ele>
+<name><![CDATA[WP535]]></name>
+</wpt>
+<wpt lat="30.28675000" lon="-97.73944200">
+<ele>181.400000</ele>
+<name><![CDATA[WP536]]></name>
+</wpt>
+<wpt lat="30.28726600" lon="-97.73880600">
+<ele>176.100000</ele>
+<name><![CDATA[WP537]]></name>
+</wpt>
+<wpt lat="30.28645500" lon="-97.73860400">
+<ele>178.500000</ele>
+<name><![CDATA[WP538]]></name>
+</wpt>
+<wpt lat="30.28610000" lon="-97.73866200">
+<ele>179.800000</ele>
+<name><![CDATA[WP539]]></name>
+</wpt>
+<wpt lat="30.28560700" lon="-97.73821700">
+<ele>177.700000</ele>
+<name><![CDATA[WP540]]></name>
+</wpt>
+<wpt lat="30.28511900" lon="-97.73773600">
+<ele>171.700000</ele>
+<name><![CDATA[WP541]]></name>
+</wpt>
+<wpt lat="30.28566000" lon="-97.73676000">
+<ele>166.500000</ele>
+<name><![CDATA[WP542]]></name>
+</wpt>
+<wpt lat="30.28555100" lon="-97.73607000">
+<ele>165.200000</ele>
+<name><![CDATA[WP543]]></name>
+</wpt>
+<wpt lat="30.28595300" lon="-97.73582900">
+<ele>165.000000</ele>
+<name><![CDATA[WP544]]></name>
+</wpt>
+<wpt lat="30.28659600" lon="-97.73616200">
+<ele>166.400000</ele>
+<name><![CDATA[WP545]]></name>
+</wpt>
+<wpt lat="30.28656900" lon="-97.73660600">
+<ele>167.300000</ele>
+<name><![CDATA[WP546]]></name>
+</wpt>
+<wpt lat="30.28626800" lon="-97.73700700">
+<ele>167.300000</ele>
+<name><![CDATA[WP547]]></name>
+</wpt>
+<wpt lat="30.28679100" lon="-97.73767300">
+<ele>170.600000</ele>
+<name><![CDATA[WP548]]></name>
+</wpt>
+<wpt lat="30.28578800" lon="-97.73941600">
+<ele>183.800000</ele>
+<name><![CDATA[WP549]]></name>
+</wpt>
+<wpt lat="30.28362100" lon="-97.74048400">
+<ele>173.500000</ele>
+<name><![CDATA[WP550]]></name>
+</wpt>
+<wpt lat="30.28306500" lon="-97.74110500">
+<ele>174.400000</ele>
+<name><![CDATA[WP551]]></name>
+</wpt>
+<wpt lat="30.28411200" lon="-97.74667200">
+<ele>180.000000</ele>
+<name><![CDATA[WP552]]></name>
+</wpt>
+<wpt lat="30.28465800" lon="-97.74766200">
+<ele>178.000000</ele>
+<name><![CDATA[WP553]]></name>
+</wpt>
+<wpt lat="30.28250200" lon="-97.74883100">
+<ele>177.400000</ele>
+<name><![CDATA[WP554]]></name>
+</wpt>
+<wpt lat="30.28187900" lon="-97.75133500">
+<ele>149.500000</ele>
+<name><![CDATA[WP555]]></name>
+</wpt>
+<wpt lat="30.28158500" lon="-97.75179700">
+<ele>150.900000</ele>
+<name><![CDATA[WP556]]></name>
+</wpt>
+<wpt lat="30.28097000" lon="-97.75148500">
+<ele>151.100000</ele>
+<name><![CDATA[WP557]]></name>
+</wpt>
+<wpt lat="30.28081300" lon="-97.75091400">
+<ele>150.400000</ele>
+<name><![CDATA[WP558]]></name>
+</wpt>
+<wpt lat="30.28078400" lon="-97.75358000">
+<ele>167.300000</ele>
+<name><![CDATA[WP559]]></name>
+</wpt>
+<wpt lat="30.27910600" lon="-97.75351300">
+<ele>167.200000</ele>
+<name><![CDATA[WP560]]></name>
+</wpt>
+<wpt lat="30.27775000" lon="-97.75411600">
+<ele>166.900000</ele>
+<name><![CDATA[WP561]]></name>
+</wpt>
+<wpt lat="30.27601400" lon="-97.75516800">
+<ele>163.500000</ele>
+<name><![CDATA[WP562]]></name>
+</wpt>
+<wpt lat="30.27540400" lon="-97.75544700">
+<ele>161.900000</ele>
+<name><![CDATA[WP563]]></name>
+</wpt>
+<wpt lat="30.28285400" lon="-97.75229200">
+<ele>147.100000</ele>
+<name><![CDATA[WP564]]></name>
+</wpt>
+<wpt lat="30.28320300" lon="-97.75148700">
+<ele>149.300000</ele>
+<name><![CDATA[WP565]]></name>
+</wpt>
+<wpt lat="30.28027100" lon="-97.74787900">
+<ele>170.300000</ele>
+<name><![CDATA[WP566]]></name>
+</wpt>
+<wpt lat="30.27601300" lon="-97.73570300">
+<ele>150.400000</ele>
+<name><![CDATA[WP567]]></name>
+</wpt>
+<wpt lat="30.27697900" lon="-97.73388100">
+<ele>155.500000</ele>
+<name><![CDATA[WP568]]></name>
+</wpt>
+<wpt lat="30.27850600" lon="-97.72791500">
+<ele>176.000000</ele>
+<name><![CDATA[WP569]]></name>
+</wpt>
+<wpt lat="30.27571600" lon="-97.72582800">
+<ele>170.800000</ele>
+<name><![CDATA[WP570]]></name>
+</wpt>
+<wpt lat="30.27489500" lon="-97.72568800">
+<ele>169.400000</ele>
+<name><![CDATA[WP571]]></name>
+</wpt>
+<wpt lat="30.28588100" lon="-97.73339300">
+<ele>163.800000</ele>
+<name><![CDATA[WP572]]></name>
+</wpt>
+<wpt lat="30.26146000" lon="-97.73722100">
+<ele>142.600000</ele>
+<name><![CDATA[WP573]]></name>
+</wpt>
+
+</gpx>

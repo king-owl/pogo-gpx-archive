@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/">
+	<trk>
+		<name>0</name>
+		<trkseg>
+			<wpt lat="37.377827" lon="-5.988187">
+			</wpt>
+			<wpt lat="37.377821" lon="-5.987828">
+			</wpt>
+			<wpt lat="37.378043" lon="-5.987860">
+			</wpt>
+			<wpt lat="37.377869" lon="-5.987685">
+			</wpt>
+			<wpt lat="37.378056" lon="-5.987752">
+			</wpt>
+			<wpt lat="37.377905" lon="-5.987525">
+			</wpt>
+			<wpt lat="37.378060" lon="-5.987548">
+			</wpt>
+			<wpt lat="37.377937" lon="-5.987321">
+			</wpt>
+			<wpt lat="37.378119" lon="-5.987284">
+			</wpt>
+			<wpt lat="37.377940" lon="-5.987244">
+			</wpt>
+			<wpt lat="37.378103" lon="-5.987062">
+			</wpt>
+			<wpt lat="37.378066" lon="-5.986789">
+			</wpt>
+			<wpt lat="37.377815" lon="-5.986772">
+			</wpt>
+			<wpt lat="37.377971" lon="-5.986584">
+			</wpt>
+			<wpt lat="37.377809" lon="-5.986362">
+			</wpt>
+			<wpt lat="37.377763" lon="-5.986299">
+			</wpt>
+			<wpt lat="37.377708" lon="-5.986210">
+			</wpt>
+			<wpt lat="37.377423" lon="-5.986132">
+			</wpt>
+			<wpt lat="37.377169" lon="-5.985944">
+			</wpt>
+			<wpt lat="37.377037" lon="-5.985969">
+			</wpt>
+			<wpt lat="37.376952" lon="-5.986354">
+			</wpt>
+			<wpt lat="37.376837" lon="-5.986353">
+			</wpt>
+			<wpt lat="37.376870" lon="-5.985940">
+			</wpt>
+			<wpt lat="37.376832" lon="-5.985951">
+			</wpt>
+			<wpt lat="37.376683" lon="-5.985953">
+			</wpt>
+			<wpt lat="37.376603" lon="-5.986126">
+			</wpt>
+			<wpt lat="37.376351" lon="-5.985975">
+			</wpt>
+			<wpt lat="37.376491" lon="-5.986307">
+			</wpt>
+			<wpt lat="37.376140" lon="-5.985980">
+			</wpt>
+			<wpt lat="37.376325" lon="-5.986263">
+			</wpt>
+			<wpt lat="37.376054" lon="-5.986235">
+			</wpt>
+			<wpt lat="37.376229" lon="-5.986391">
+			</wpt>
+			<wpt lat="37.375950" lon="-5.986381">
+			</wpt>
+			<wpt lat="37.376131" lon="-5.986510">
+			</wpt>
+			<wpt lat="37.376421" lon="-5.986533">
+			</wpt>
+			<wpt lat="37.377000" lon="-5.986852">
+			</wpt>
+			<wpt lat="37.377342" lon="-5.986537">
+			</wpt>
+			<wpt lat="37.377048" lon="-5.987203">
+			</wpt>
+			<wpt lat="37.377379" lon="-5.987113">
+			</wpt>
+			<wpt lat="37.377487" lon="-5.987308">
+			</wpt>
+			<wpt lat="37.377732" lon="-5.987388">
+			</wpt>
+		</trkseg>
+	</trk>
+</gpx>

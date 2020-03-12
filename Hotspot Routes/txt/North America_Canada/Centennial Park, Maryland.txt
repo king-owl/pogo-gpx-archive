@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"> <trk> <name>0</name> <trkseg> 
+<wpt lat="39.244152" lon="-76.855280"></wpt>
+<wpt lat="39.243690" lon="-76.854526"></wpt>
+<wpt lat="39.243504" lon="-76.854310"></wpt>
+<wpt lat="39.243403" lon="-76.853987"></wpt>
+<wpt lat="39.243268" lon="-76.853187"></wpt>
+<wpt lat="39.242945" lon="-76.852251"></wpt>
+<wpt lat="39.242763" lon="-76.851788"></wpt>
+<wpt lat="39.242371" lon="-76.851811"></wpt>
+<wpt lat="39.240142" lon="-76.851182"></wpt>
+<wpt lat="39.239830" lon="-76.851880"></wpt>
+<wpt lat="39.240125" lon="-76.852774"></wpt>
+<wpt lat="39.241029" lon="-76.855933"></wpt>
+<wpt lat="39.241532" lon="-76.856715"></wpt>
+<wpt lat="39.241220" lon="-76.857096"></wpt>
+<wpt lat="39.241718" lon="-76.858182"></wpt>
+<wpt lat="39.241250" lon="-76.858834"></wpt>
+<wpt lat="39.240714" lon="-76.860442"></wpt>
+<wpt lat="39.240697" lon="-76.861409"></wpt>
+<wpt lat="39.240814" lon="-76.863062"></wpt>
+<wpt lat="39.242665" lon="-76.861081"></wpt>
+<wpt lat="39.243598" lon="-76.858226"></wpt>
+<wpt lat="39.244748" lon="-76.858239"></wpt>
+<wpt lat="39.244738" lon="-76.857294"></wpt>
+<wpt lat="39.244403" lon="-76.856787"></wpt></trkseg></trk></gpx> 
